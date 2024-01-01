@@ -47,7 +47,9 @@ Aside from being a data scientist, this year I decided to be a content creator w
 - 📝 In this year, I actively write some articles on [Medium](https://medium.com/@bagusazra11).  
   
 
-- ⚡ Fun fact: still watching Spongebob.  
+- ⚡ Fun fact: still watching Spongebob.
+
+- 📧 My email: bagusazra11@gmail.com
 
 
 </td><td valign="top" width="50%">
