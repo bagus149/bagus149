@@ -110,4 +110,3 @@ Aside from being a data scientist, this year I decided to be a content creator w
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
