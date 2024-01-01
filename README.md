@@ -38,7 +38,7 @@ Aside from being a data scientist, this year I decided to be a content creator w
 - 🔭 I’m currently working as a freelance data scientist. Looking for a permanent job.  
   
 
-- 🌱 A life long learner. Added some new skills in data field.  
+- 🌱 A lifelong learner. Added some new skills in the data field.  
   
 
 - ❓ Ask me about anything related to data science, data analysis, and machine learning.  
@@ -47,7 +47,7 @@ Aside from being a data scientist, this year I decided to be a content creator w
 - 📝 In this year, I actively write some articles on [Medium](https://medium.com/@bagusazra11).  
   
 
-- ⚡ Fun fact: still wathing Spongebob.  
+- ⚡ Fun fact: still watching Spongebob.  
 
 
 </td><td valign="top" width="50%">
