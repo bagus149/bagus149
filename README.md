@@ -32,7 +32,7 @@ Aside from being a data scientist, this year I decided to be a content creator w
 <br/>  
 
 
-## Rapidfire  
+## Currently About Me:  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working as a freelance data scientist. Looking for a permanent job.  
