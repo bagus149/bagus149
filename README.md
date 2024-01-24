@@ -35,7 +35,7 @@ Aside from being a data scientist, this year I decided to be a content creator w
 ## Currently About Me:  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working as a freelance data scientist. Looking for a permanent job.  
+- 🔭 I’m currently working as a freelance data analysis and science tutor. Looking for a permanent job.  
   
 
 - 🌱 A lifelong learner. Added some new skills in the data field.  
