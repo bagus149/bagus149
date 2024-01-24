@@ -26,7 +26,7 @@
 ### Hello there! 👨‍💻  
 I'm a rookie data scientist interested in data, research, and teaching. Proficient in data science within the field of statistics and its applications for research, data analysis, data mining, machine learning, and more. 🤖
 
-Aside from being a data scientist, this year I decided to be a content creator who shares my knowledge with anyone willing to learn. Also, I am a private tutor on [Superprof]("https://www.superprof.co.id/ir/22206738-aa7153") teaching data analysis and Python programming. Check out my projects below and leave a star if you find something useful. Thanks!👌  
+Aside from being a data scientist, this year I decided to be a content creator who shares my knowledge with anyone willing to learn. Also, I am a private tutor on [Superprof](https://www.superprof.co.id/ir/22206738-aa7153) teaching data analysis and Python programming. Check out my projects below and leave a star if you find something useful. Thanks!👌  
   
 
 <br/>  
